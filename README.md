@@ -7,5 +7,6 @@
 ###week1(module1): Programming Assignment: Basic Active Record CRUD
 ###week2(module2): Programming Assignment: Active Record Relationships
 ###week3(module3): Programming Assignment: Action Pack
+###week4(module4): Programming Assignment: Nested Resources, Security, and Pagination
 
 
